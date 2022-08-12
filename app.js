@@ -7,6 +7,7 @@ console.log(
 console.log("EXERCISE 1:\n==========\n");
 
 // YOUR CODE HERE
+
 var a;
 var b;
 a=20;
@@ -21,8 +22,10 @@ console.log(multipy);
 console.log(dividing);
 
 
+
 // Exercise 2
 console.log("EXERCISE 2:\n==========\n");
+
 
 
 // YOUR CODE HERE
@@ -40,10 +43,13 @@ console.log(" What is the value of: isPresent + str?" , isPresent+str);
 console.log( " What is the value of: firstName + lastName?" ,firstName+lastName);
 
 
+
+
 // Exercise 3
 console.log("EXERCISE 3:\n==========\n");
 
 // YOUR CODE HERE
+
 let val = 5; 
 let str3 = "5";
 let str4 = "five";
